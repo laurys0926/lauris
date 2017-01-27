@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element>
+		<xs:element name="grojarastis">
+			<xs:complexType>
+				<xs:sequence>
+					<xs:grojarastis>
+					<xs:element name="paveiksliukas"/>
+					<xs:element name="atlikejas" type="xs:string"/>
+					<xs:element name="albumas" type="xs:string"/>
+					<xs:element name="pavadinimas" type="xs:string"/>
+					<xs:element name="metai" type="xs:string"/>
+					<xs:element name="zanras" type="xs:string"/>
+					</xs:grojarastis>
+				</xs:sequence>
+			</xs:complexType>
+		</xs:element>
+	</xs:element>
+</xs:schema>
+		
