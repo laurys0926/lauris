@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+	<grojarastis>
+			<daina id="1">
+			<paveiksliukas height="100" width="150">Paveiksliukas</paveiksliukas>
+			<atlikejas pavadinimas ="Eminem" ></atlikejas>
+			<albumas>Encore</albumas>
+			<pavadinimas>Mockingbird</pavadinimas>
+			<metai>2004</metai>
+			<zanras>Repas</zanras>
+		</daina>
+		
+		<daina id="2">
+			<paveiksliukas height="100" width="150">Paveiksliukas</paveiksliukas>
+			<atlikejas pavadinimas ="Eminem" ></atlikejas>
+			<albumas>Encore</albumas>
+			<pavadinimas>Like Toy Soldiers</pavadinimas>
+			<metai>2004</metai>
+			<zanras>Repas</zanras>
+		</daina>
+		<daina id="3">
+			<paveiksliukas height="100" width="150">Paveiksliukas</paveiksliukas>
+			<atlikejas pavadinimas ="Eminem" ></atlikejas>
+			<albumas>Encore</albumas>
+			<pavadinimas>Go to sleep</pavadinimas>
+			<metai>2004</metai>
+			<zanras>Repas</zanras>
+		</daina>
+		
+	
+</grojarstis>
+		
